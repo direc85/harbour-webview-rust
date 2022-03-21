@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=WebView-Rust
+X-Nemo-Application-Type=qtquick2
+X-Nemo-Single-Instance=yes
+Exec=harbour-webview-rust
+X-Desktop-File-Install-Version=0.20

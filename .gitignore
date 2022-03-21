@@ -1,0 +1,25 @@
+*~
+*.bak
+
+# QtCreator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# VS Code
+.vscode
+
+/target
+
+debugfiles.list
+debuglinks.list
+debugsourcefiles.list
+debugsources.list
+documentation.list
+elfbins.list
+
+translations/*.qm
+
+RPMS
+
+Makefile
