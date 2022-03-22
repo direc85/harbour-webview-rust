@@ -23,12 +23,14 @@ PkgConfigBR:
   - Qt5Core
   - Qt5Qml
   - Qt5Quick
+  - qt5embedwidget
 
 # Build dependencies without a pkgconfig setup can be listed here
 PkgBR:
   - rust >= 1.52.1+git1-1
   - cargo >= 1.52.1+git1-1
   - rust-std-static
+  - sailfish-components-webview-qt5
 
 # Runtime dependencies which are not automatically detected
 Requires:
